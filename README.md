@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm 鄭宇辰 Yu-Cheng (Payon) Zheng</h1>
+<h3 align="center">A passionate python backend developer from Taiwan</h3>
 
-<!--
-**ken71301/ken71301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ken71301&label=Profile%20views&color=0e75b6&style=flat" alt="ken71301" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 Backend engineer / SDET at **Aeon motor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Contributor / reviewer at [Python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+
+- 📝 I regularly write articles on [https://hackmd.io/@payon](https://hackmd.io/@payon)
+
+- 💬 Ask me about **python, unit-test, pytest, flask**
+
+- 📫 My email: **ken71301@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/17zW5kA8BHk3Q2l1Y-mqukeaQpqeOTdM6/view?usp=sharing](https://drive.google.com/file/d/17zW5kA8BHk3Q2l1Y-mqukeaQpqeOTdM6/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ken71301&show_icons=true&locale=en&layout=compact" alt="ken71301" /></p>
