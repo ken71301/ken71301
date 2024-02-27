@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 鄭宇辰 Yu-Cheng (Payon) Zheng</h1>
+<h1 align="center">Hi 👋, I'm 鄭宇辰 Yu-Cheng (Payon) Cheng</h1>
 <h3 align="center">A passionate python backend developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken71301&label=Profile%20views&color=0e75b6&style=flat" alt="ken71301" /> </p>
