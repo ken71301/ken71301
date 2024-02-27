@@ -5,7 +5,7 @@
 
 - 🔭 Backend engineer / SDET at **Aeon motor**
 
-- 👯 Contributor / reviewer at [Python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+- 🐍 Contributor / reviewer at [Python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 
 - 📝 I regularly write articles on [https://hackmd.io/@payon](https://hackmd.io/@payon)
 
