@@ -13,7 +13,7 @@
 
 - 📫 My email: **ken71301@gmail.com**
 
-- 📄 Know about my experiences [My Resume](app.rezi.ai/s/tfxdFkhL5oSQKGE2EDdm)
+- 📄 Know about my experiences [app.rezi.ai/s/tfxdFkhL5oSQKGE2EDdm](https://app.rezi.ai/s/tfxdFkhL5oSQKGE2EDdm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
