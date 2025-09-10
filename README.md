@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken71301&label=Profile%20views&color=0e75b6&style=flat" alt="ken71301" /> </p>
 
-- 🔭 Backend engineer / SDET at **Aeon motor** (historically)
+- 🔭 Backend engineer / SDET at **Trend Micro**
 
 - 🐍 Contributor / reviewer at [Python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 
